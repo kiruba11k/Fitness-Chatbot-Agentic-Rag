@@ -1,6 +1,6 @@
 # 🏋️ Fitness Chatbot
 
-Your Personal Fitness Assistant built with **LangChain**, **Streamlit**, and **Chroma Vector Store**. This chatbot can answer questions related to fitness, diet, and nutrition by retrieving information from health-related web content.
+Your Personal Fitness Assistant built with **LangGraph**, **Streamlit**, and **Chroma Vector Store**. This chatbot can answer questions related to fitness, diet, and nutrition by retrieving information from health-related web content.
 
 ## 🚀 Features
 - **AI-powered Assistant:** Uses LLM (ChatGroq) for generating intelligent responses.
@@ -9,7 +9,7 @@ Your Personal Fitness Assistant built with **LangChain**, **Streamlit**, and **C
 - **Session Persistence:** Remembers conversation context using session IDs.
 
 ## 🛠️ Tech Stack
-- **Frameworks:** LangChain, Streamlit
+- **Frameworks:** LangGraph, Streamlit
 - **LLM:** ChatGroq (Gemma2-9b-It)
 - **Vector Store:** Chroma
 - **Embeddings:** Hugging Face (all-MiniLM-L6-v2)
@@ -89,5 +89,5 @@ fitness-chatbot/
 
 ---
 
-💬 **Developed by Kirubakaran Periyasamy**
+💬 [**Developed by Kirubakaran Periyasamy**](https://github.com/kiruba11k)
 
